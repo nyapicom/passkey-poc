@@ -1,6 +1,6 @@
 # パスキー認証を試す (Next.js + TypeScript)
 
-WebAuthn APIを使用したパスキー認証の最小構成デモアプリ
+WebAuthn APIを使用したパスキー認証のデモアプリ
 
 ## 必要な環境
 
